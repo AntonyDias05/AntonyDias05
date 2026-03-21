@@ -3,7 +3,7 @@
 🚀 **Junior Full Stack Dev | Mobile**  
 🇧🇷 Brazil
 
-Eu construo **scalable products**,e **Sistemas Web**.  
+Eu construo **Produtos Escalaveis**,e **Sistemas Web**.  
 Tenho foco em **Aplicativos, Sites e APIS**.
 
 
