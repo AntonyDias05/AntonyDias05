@@ -13,10 +13,10 @@ Tenho foco em **Aplicativos, Sites e APIS**.
 
 <p align="left">
   <a href="https://github.com/AntonyDias05">
-    <img src="https://img.shields.io/badge/GitHub-HERBERTCARNAUBADESOUZA-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-AntonyDias05-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://instagram.com/antony_diass">
-    <img src="https://img.shields.io/badge/Instagram-@OREIDOSITES-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-@Antony_diassS-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
